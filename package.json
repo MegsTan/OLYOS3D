@@ -17,6 +17,7 @@
 		"@babylonjs/loaders": "^9.4.1",
 		"@babylonjs/materials": "9.0.0",
 		"babylonjs-editor-tools": "^5.4.0",
+		"framebus": "^6.0.5",
 		"next": "16.1.7",
 		"react": "18.2.0",
 		"react-dom": "18.2.0"

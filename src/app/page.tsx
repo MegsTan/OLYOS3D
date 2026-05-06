@@ -43,7 +43,7 @@ import { getScriptByClassForObject, loadScene } from "babylonjs-editor-tools";
  * loaded objects (scene, meshes, transform nodes, lights, cameras, etc.).
  */
 import { scriptsMap } from "@/scripts";
-import ControlManager from "@/scripts/ControlManager";
+import ControlManager from "@/scripts/TurntableManager";
 
 export default function Home() {
 	const canvasRef = useRef<HTMLCanvasElement>(null);

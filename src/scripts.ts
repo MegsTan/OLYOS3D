@@ -4,14 +4,18 @@
  */
 
 import { loadScene, scriptsDictionary, scriptAssetsCache, _applyScriptsForObject, _removeRegisteredScriptInstance, _preloadScriptsAssets } from "babylonjs-editor-tools";
-import * as scripts_box from "./scripts/box";
-import * as scripts_ControlManager from "./scripts/ControlManager";
 import * as scripts_DownloadManager from "./scripts/DownloadManager";
+import * as scripts_box from "./scripts/box";
+import * as scripts_BackendManager from "./scripts/BackendManager";
+import * as scripts_InputManager from "./scripts/InputManager";
+import * as scripts_TurntableManager from "./scripts/TurntableManager";
 
 export const scriptsMap = {
-    "scripts/box.ts": scripts_box,
-	"scripts/ControlManager.ts": scripts_ControlManager,
-	"scripts/DownloadManager.ts": scripts_DownloadManager
+    "scripts/DownloadManager.ts": scripts_DownloadManager,
+	"scripts/box.ts": scripts_box,
+	"scripts/BackendManager.ts": scripts_BackendManager,
+	"scripts/InputManager.ts": scripts_InputManager,
+	"scripts/TurntableManager.ts": scripts_TurntableManager
 };
 
 export { loadScene, scriptsDictionary, scriptAssetsCache, _applyScriptsForObject, _removeRegisteredScriptInstance, _preloadScriptsAssets };

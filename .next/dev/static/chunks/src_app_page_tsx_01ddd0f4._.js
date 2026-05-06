@@ -1,7 +1,7 @@
 (globalThis.TURBOPACK_CHUNK_LISTS || (globalThis.TURBOPACK_CHUNK_LISTS = [])).push({
     script: typeof document === "object" ? document.currentScript : undefined,
     chunks: [
-  "static/chunks/node_modules_@babylonjs_afc168d2._.js",
+  "static/chunks/node_modules_@babylonjs_74cefad0._.js",
   "static/chunks/node_modules_@babylonjs_core_Misc_b7bf9899._.js",
   "static/chunks/node_modules_@babylonjs_core_Engines_8d8ec274._.js",
   "static/chunks/node_modules_@babylonjs_core_Materials_Textures_636259b2._.js",
@@ -28,8 +28,8 @@
   "static/chunks/node_modules_babylonjs-editor-tools_build_src_f78afd60._.js",
   "static/chunks/node_modules_@babylonjs_gui_2D_a3c3173f._.js",
   "static/chunks/node_modules_@babylonjs_loaders_glTF_8bf0405d._.js",
-  "static/chunks/node_modules_2a605d88._.js",
-  "static/chunks/src_035cd0b3._.js"
+  "static/chunks/node_modules_3e074274._.js",
+  "static/chunks/src_f208e984._.js"
 ],
     source: "dynamic"
 });

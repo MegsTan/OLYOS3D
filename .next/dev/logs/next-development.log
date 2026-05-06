@@ -1,18 +1,91 @@
-[00:00:00.573] Server  LOG     ✓ Ready in 368ms
-[00:00:03.074] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.313] Browser LOG     BJS - [10:13:35]: Babylon.js v9.0.0 - WebGL2 - Parallel shader compilation
-[00:00:04.479] Browser LOG     DownloadManager: 0% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 5% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 15% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 24% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 34% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 41% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 49% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 57% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 64% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 72% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 79% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 87% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 94% loaded
-[00:00:04.479] Browser LOG     DownloadManager: 100% loaded
-[00:00:04.964] Browser LOG     DownloadManager: loaded https://p.olyofiles.site/c82ded27-f411-4c14-bc10-3221c616d015/2026/02/03/63304068-71ce-4941-ae02-3d7ae8daf0b1.glb
+[00:00:00.594] Server  LOG     ✓ Ready in 387ms
+[00:00:20.286] Browser LOG     BJS - [16:27:57]: Babylon.js v9.0.0 - WebGL2 - Parallel shader compilation
+[00:16:41.029] Browser LOG     DownloadManager: 13% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 48% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 55% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 55% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 55% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 56% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 56% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 64% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 72% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 79% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 87% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 95% loaded
+[00:16:41.029] Browser LOG     DownloadManager: 100% loaded
+[00:16:41.536] Browser LOG     DownloadManager: loaded https://p.olyofiles.site/c82ded27-f411-4c14-bc10-3221c616d015/2026/02/03/63304068-71ce-4941-ae02-3d7ae8daf0b1.glb
+[00:16:55.673] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:55.920] Browser LOG     BJS - [16:44:35]: Babylon.js v9.0.0 - WebGL2 - Parallel shader compilation
+[00:16:57.153] Browser LOG     DownloadManager: 0% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 2% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 9% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 19% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 27% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 35% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 42% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 50% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 57% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 65% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 73% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 81% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 88% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 95% loaded
+[00:16:57.153] Browser LOG     DownloadManager: 100% loaded
+[00:16:57.680] Browser LOG     DownloadManager: loaded https://p.olyofiles.site/c82ded27-f411-4c14-bc10-3221c616d015/2026/02/03/63304068-71ce-4941-ae02-3d7ae8daf0b1.glb
+[00:21:47.093] Server  LOG     ✓ Compiled in 12ms
+[00:21:47.240] Browser LOG     BJS - [16:49:26]: Babylon.js v9.0.0 - WebGL2 - Parallel shader compilation
+[00:21:48.477] Browser LOG     DownloadManager: 0% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 2% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 8% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 14% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 22% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 28% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 35% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 40% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 44% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 51% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 58% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 62% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 71% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 78% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 84% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 92% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 98% loaded
+[00:21:48.477] Browser LOG     DownloadManager: 100% loaded
+[00:21:48.969] Browser LOG     DownloadManager: loaded https://p.olyofiles.site/c82ded27-f411-4c14-bc10-3221c616d015/2026/02/03/63304068-71ce-4941-ae02-3d7ae8daf0b1.glb
+[00:23:27.325] Server  LOG     ✓ Compiled in 10ms
+[00:23:27.436] Browser LOG     BJS - [16:51:06]: Babylon.js v9.0.0 - WebGL2 - Parallel shader compilation
+[00:23:29.677] Browser LOG     DownloadManager: 0% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 1% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 2% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 3% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 4% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 6% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 9% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 12% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 15% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 19% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 22% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 27% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 31% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 35% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 39% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 44% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 47% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 51% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 56% loaded
+[00:23:29.677] Browser LOG     DownloadManager: 60% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 63% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 65% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 68% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 72% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 76% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 79% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 83% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 87% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 90% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 94% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 98% loaded
+[00:23:29.678] Browser LOG     DownloadManager: 100% loaded
+[00:23:30.154] Browser LOG     DownloadManager: loaded https://p.olyofiles.site/c82ded27-f411-4c14-bc10-3221c616d015/2026/02/03/63304068-71ce-4941-ae02-3d7ae8daf0b1.glb
+[00:23:34.668] Browser LOG     InputManager: clicked {"pickedMesh":"Floor_17_base_building_01","x":1043.333251953125,"y":198}

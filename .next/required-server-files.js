@@ -100,7 +100,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\Projects\\KobiEdri\\Project-OLYO3D",
+    "outputFileTracingRoot": "D:\\Projects\\KobiEdri\\Project-OLYO3D_LOCAL",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -301,11 +301,11 @@ self.__SERVER_FILES_MANIFEST={
           "as": "*.js"
         }
       },
-      "root": "D:\\Projects\\KobiEdri\\Project-OLYO3D"
+      "root": "D:\\Projects\\KobiEdri\\Project-OLYO3D_LOCAL"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "D:\\Projects\\KobiEdri\\Project-OLYO3D",
+  "appDir": "D:\\Projects\\KobiEdri\\Project-OLYO3D_LOCAL",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

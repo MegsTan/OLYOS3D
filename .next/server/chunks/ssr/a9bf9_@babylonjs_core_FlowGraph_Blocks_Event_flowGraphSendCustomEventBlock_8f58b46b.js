@@ -1,0 +1,3 @@
+module.exports=[60296,a=>{"use strict";var b=a.i(42693),c=a.i(9017);class d extends b.FlowGraphExecutionBlockWithOutSignal{constructor(a){for(const b in super(a),this.config=a,this.config.eventData)this.registerDataInput(b,this.config.eventData[b].type,this.config.eventData[b].value)}_execute(a){let b=this.config.eventId,c={};for(let b of this.dataInputs)c[b.name]=b.getValue(a);a.configuration.coordinator.notifyCustomEvent(b,c),this.out._activateSignal(a)}getClassName(){return"FlowGraphReceiveCustomEventBlock"}}(0,c.RegisterClass)("FlowGraphReceiveCustomEventBlock",d),a.s(["FlowGraphSendCustomEventBlock",()=>d])}];
+
+//# sourceMappingURL=a9bf9_%40babylonjs_core_FlowGraph_Blocks_Event_flowGraphSendCustomEventBlock_8f58b46b.js.map

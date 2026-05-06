@@ -1,0 +1,3 @@
+module.exports=[93916,a=>{"use strict";var b=a.i(79438),c=a.i(42693),d=a.i(9017);class e extends c.FlowGraphExecutionBlockWithOutSignal{constructor(a){super(a),this.count=this.registerDataOutput("count",b.RichTypeNumber),this.reset=this._registerSignalInput("reset")}_execute(a,b){if(b===this.reset){a._setExecutionVariable(this,"count",0),this.count.setValue(0,a);return}let c=a._getExecutionVariable(this,"count",0)+1;a._setExecutionVariable(this,"count",c),this.count.setValue(c,a),this.out._activateSignal(a)}getClassName(){return"FlowGraphCallCounterBlock"}}(0,d.RegisterClass)("FlowGraphCallCounterBlock",e),a.s(["FlowGraphCallCounterBlock",()=>e])}];
+
+//# sourceMappingURL=16b70_core_FlowGraph_Blocks_Execution_ControlFlow_flowGraphCounterBlock_8e60fca1.js.map

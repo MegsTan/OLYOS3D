@@ -1,0 +1,3 @@
+module.exports=[83341,a=>{"use strict";var b=a.i(3102),c=a.i(79438);class d extends b.FlowGraphBlock{constructor(a){super(a),this.config=a,this.executionFunction=this.registerDataInput("function",c.RichTypeAny),this.value=this.registerDataInput("value",c.RichTypeAny),this.result=this.registerDataOutput("result",c.RichTypeAny)}_updateOutputs(a){let b=this.executionFunction.getValue(a),c=this.value.getValue(a);b&&this.result.setValue(b(c,a),a)}getClassName(){return"FlowGraphCodeExecutionBlock"}}a.s(["FlowGraphCodeExecutionBlock",()=>d])}];
+
+//# sourceMappingURL=16b70_core_FlowGraph_Blocks_Data_Utils_flowGraphCodeExecutionBlock_1f942bc8.js.map

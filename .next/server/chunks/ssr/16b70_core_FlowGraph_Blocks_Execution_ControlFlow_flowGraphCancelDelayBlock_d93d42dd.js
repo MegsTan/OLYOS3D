@@ -1,0 +1,3 @@
+module.exports=[77132,a=>{"use strict";var b=a.i(9017),c=a.i(42693),d=a.i(79438),e=a.i(10312);class f extends c.FlowGraphExecutionBlockWithOutSignal{constructor(a){super(a),this.delayIndex=this.registerDataInput("delayIndex",d.RichTypeFlowGraphInteger)}_execute(a,b){let c=(0,e.getNumericValue)(this.delayIndex.getValue(a));if(c<=0||isNaN(c)||!isFinite(c))return this._reportError(a,"Invalid delay index");let d=a._getGlobalContextVariable("pendingDelays",[])[c];d&&d.dispose(),this.out._activateSignal(a)}getClassName(){return"FlowGraphCancelDelayBlock"}}(0,b.RegisterClass)("FlowGraphCancelDelayBlock",f),a.s(["FlowGraphCancelDelayBlock",()=>f])}];
+
+//# sourceMappingURL=16b70_core_FlowGraph_Blocks_Execution_ControlFlow_flowGraphCancelDelayBlock_d93d42dd.js.map

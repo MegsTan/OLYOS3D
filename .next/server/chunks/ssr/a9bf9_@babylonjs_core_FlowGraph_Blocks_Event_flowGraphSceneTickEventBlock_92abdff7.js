@@ -1,0 +1,3 @@
+module.exports=[89413,a=>{"use strict";var b=a.i(44611),c=a.i(9017),d=a.i(79438);class e extends b.FlowGraphEventBlock{constructor(){super(),this.type="SceneBeforeRender",this.timeSinceStart=this.registerDataOutput("timeSinceStart",d.RichTypeNumber),this.deltaTime=this.registerDataOutput("deltaTime",d.RichTypeNumber)}_preparePendingTasks(a){}_executeEvent(a,b){return this.timeSinceStart.setValue(b.timeSinceStart,a),this.deltaTime.setValue(b.deltaTime,a),this._execute(a),!0}_cancelPendingTasks(a){}getClassName(){return"FlowGraphSceneTickEventBlock"}}(0,c.RegisterClass)("FlowGraphSceneTickEventBlock",e),a.s(["FlowGraphSceneTickEventBlock",()=>e])}];
+
+//# sourceMappingURL=a9bf9_%40babylonjs_core_FlowGraph_Blocks_Event_flowGraphSceneTickEventBlock_92abdff7.js.map

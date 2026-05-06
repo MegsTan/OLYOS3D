@@ -1,0 +1,3 @@
+module.exports=[16553,a=>{"use strict";var b=a.i(3102),c=a.i(79438),d=a.i(9017);class e extends b.FlowGraphBlock{constructor(a){super(a),this.condition=this.registerDataInput("condition",c.RichTypeBoolean),this.onTrue=this.registerDataInput("onTrue",c.RichTypeAny),this.onFalse=this.registerDataInput("onFalse",c.RichTypeAny),this.output=this.registerDataOutput("output",c.RichTypeAny)}_updateOutputs(a){let b=this.condition.getValue(a);this.output.setValue(b?this.onTrue.getValue(a):this.onFalse.getValue(a),a)}getClassName(){return"FlowGraphConditionalBlock"}}(0,d.RegisterClass)("FlowGraphConditionalBlock",e),a.s(["FlowGraphConditionalDataBlock",()=>e])}];
+
+//# sourceMappingURL=a9bf9_%40babylonjs_core_FlowGraph_Blocks_Data_flowGraphConditionalDataBlock_e4efc194.js.map

@@ -1,0 +1,3 @@
+module.exports=[27799,a=>{"use strict";var b=a.i(3102),c=a.i(79438),d=a.i(9017);class e extends b.FlowGraphBlock{constructor(a){super(a),this.userVariables=this.registerDataOutput("userVariables",c.RichTypeAny),this.executionId=this.registerDataOutput("executionId",c.RichTypeNumber)}_updateOutputs(a){this.userVariables.setValue(a.userVariables,a),this.executionId.setValue(a.executionId,a)}serialize(a){super.serialize(a)}getClassName(){return"FlowGraphContextBlock"}}(0,d.RegisterClass)("FlowGraphContextBlock",e),a.s(["FlowGraphContextBlock",()=>e])}];
+
+//# sourceMappingURL=a9bf9_%40babylonjs_core_FlowGraph_Blocks_Data_Utils_flowGraphContextBlock_1fe30271.js.map

@@ -1,0 +1,3 @@
+module.exports=[6981,a=>{"use strict";var b=a.i(79438),c=a.i(59695),d=a.i(9017);class e extends c.FlowGraphExecutionBlock{constructor(a){super(a),this.condition=this.registerDataInput("condition",b.RichTypeBoolean),this.onTrue=this._registerSignalOutput("onTrue"),this.onFalse=this._registerSignalOutput("onFalse")}_execute(a){this.condition.getValue(a)?this.onTrue._activateSignal(a):this.onFalse._activateSignal(a)}getClassName(){return"FlowGraphBranchBlock"}}(0,d.RegisterClass)("FlowGraphBranchBlock",e),a.s(["FlowGraphBranchBlock",()=>e])}];
+
+//# sourceMappingURL=16b70_core_FlowGraph_Blocks_Execution_ControlFlow_flowGraphBranchBlock_945e1d2e.js.map

@@ -1,0 +1,3 @@
+module.exports=[8899,a=>{"use strict";var b=a.i(44611),c=a.i(9017);class d extends b.FlowGraphEventBlock{constructor(){super(...arguments),this.initPriority=-1,this.type="SceneReady"}_executeEvent(a,b){return this._execute(a),!0}_preparePendingTasks(a){}_cancelPendingTasks(a){}getClassName(){return"FlowGraphSceneReadyEventBlock"}}(0,c.RegisterClass)("FlowGraphSceneReadyEventBlock",d),a.s(["FlowGraphSceneReadyEventBlock",()=>d])}];
+
+//# sourceMappingURL=a9bf9_%40babylonjs_core_FlowGraph_Blocks_Event_flowGraphSceneReadyEventBlock_d3327f22.js.map

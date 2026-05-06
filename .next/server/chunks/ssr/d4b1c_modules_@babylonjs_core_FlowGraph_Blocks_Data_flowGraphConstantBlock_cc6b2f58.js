@@ -1,0 +1,3 @@
+module.exports=[47632,a=>{"use strict";var b=a.i(3102),c=a.i(79438),d=a.i(9017),e=a.i(89994);class f extends b.FlowGraphBlock{constructor(a){super(a),this.config=a,this.output=this.registerDataOutput("output",(0,c.getRichTypeFromValue)(a.value))}_updateOutputs(a){this.output.setValue(this.config.value,a)}getClassName(){return"FlowGraphConstantBlock"}serialize(a={},b=e.defaultValueSerializationFunction){super.serialize(a),b("value",this.config.value,a.config)}}(0,d.RegisterClass)("FlowGraphConstantBlock",f),a.s(["FlowGraphConstantBlock",()=>f])}];
+
+//# sourceMappingURL=d4b1c_modules_%40babylonjs_core_FlowGraph_Blocks_Data_flowGraphConstantBlock_cc6b2f58.js.map

@@ -1,0 +1,4 @@
+{
+  "/api/glb-proxy/route": "app/api/glb-proxy/route.js",
+  "/page": "app/page.js"
+}

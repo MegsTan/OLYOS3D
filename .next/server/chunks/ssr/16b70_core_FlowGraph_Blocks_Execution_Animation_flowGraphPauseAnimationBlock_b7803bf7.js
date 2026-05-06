@@ -1,0 +1,3 @@
+module.exports=[28183,a=>{"use strict";var b=a.i(42693),c=a.i(79438),d=a.i(9017);class e extends b.FlowGraphExecutionBlockWithOutSignal{constructor(a){super(a),this.animationToPause=this.registerDataInput("animationToPause",c.RichTypeAny)}_execute(a){this.animationToPause.getValue(a).pause(),this.out._activateSignal(a)}getClassName(){return"FlowGraphPauseAnimationBlock"}}(0,d.RegisterClass)("FlowGraphPauseAnimationBlock",e),a.s(["FlowGraphPauseAnimationBlock",()=>e])}];
+
+//# sourceMappingURL=16b70_core_FlowGraph_Blocks_Execution_Animation_flowGraphPauseAnimationBlock_b7803bf7.js.map

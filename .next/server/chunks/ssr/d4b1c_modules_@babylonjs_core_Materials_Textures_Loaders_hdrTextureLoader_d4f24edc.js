@@ -1,0 +1,3 @@
+module.exports=[51423,a=>{"use strict";var b=a.i(2004);class c{constructor(){this.supportCascades=!1}loadCubeData(){throw".hdr not supported in Cube."}loadData(a,c,d){let e=new Uint8Array(a.buffer,a.byteOffset,a.byteLength),f=(0,b.RGBE_ReadHeader)(e),g=(0,b.RGBE_ReadPixels)(e,f),h=f.width*f.height,i=new Float32Array(4*h);for(let a=0;a<h;a+=1)i[4*a]=g[3*a],i[4*a+1]=g[3*a+1],i[4*a+2]=g[3*a+2],i[4*a+3]=1;d(f.width,f.height,c.generateMipMaps,!1,()=>{let a=c.getEngine();c.type=1,c.format=5,c._gammaSpace=!1,a._uploadDataToTextureDirectly(c,i)})}}a.s(["_HDRTextureLoader",()=>c])}];
+
+//# sourceMappingURL=d4b1c_modules_%40babylonjs_core_Materials_Textures_Loaders_hdrTextureLoader_d4f24edc.js.map
